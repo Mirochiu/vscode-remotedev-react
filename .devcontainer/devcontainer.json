@@ -1,0 +1,12 @@
+{
+    "name": "React VS Code Remote Container",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "appPort": 3000,
+    "settings": {
+        "terminal.integrated.shell.linux": null
+    },
+    "extensions": [
+		"hazer.ReactCodeSnippets",
+	]
+}
